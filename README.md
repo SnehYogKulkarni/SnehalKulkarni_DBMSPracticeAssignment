@@ -31,7 +31,10 @@ Price (
 9)	 List the distances from the "Passenger" table which are unique (non-repeated distances) in descending order.
 10)	Display the passenger name and percentage of distance travelled by that passenger from the total distance travelled by all passengers without using user variables 
 11)	Display the distance, price in three categories in table Price
+
   a)	Expensive if the cost is more than 1000
+  
   b)	Average Cost if the cost is less than 1000 and greater than 500
+  
   c)	Cheap otherwise
 
